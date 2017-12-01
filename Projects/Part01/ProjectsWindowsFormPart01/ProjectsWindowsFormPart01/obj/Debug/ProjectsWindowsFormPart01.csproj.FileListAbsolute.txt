@@ -1,0 +1,9 @@
+C:\Users\nmphu\OneDrive\Learning\Subjects\CSHARP\GitHub\Csharp_LHU\Projects\Part01\ProjectsWindowsFormPart01\ProjectsWindowsFormPart01\bin\Debug\ProjectsWindowsFormPart01.exe.config
+C:\Users\nmphu\OneDrive\Learning\Subjects\CSHARP\GitHub\Csharp_LHU\Projects\Part01\ProjectsWindowsFormPart01\ProjectsWindowsFormPart01\bin\Debug\ProjectsWindowsFormPart01.exe
+C:\Users\nmphu\OneDrive\Learning\Subjects\CSHARP\GitHub\Csharp_LHU\Projects\Part01\ProjectsWindowsFormPart01\ProjectsWindowsFormPart01\bin\Debug\ProjectsWindowsFormPart01.pdb
+C:\Users\nmphu\OneDrive\Learning\Subjects\CSHARP\GitHub\Csharp_LHU\Projects\Part01\ProjectsWindowsFormPart01\ProjectsWindowsFormPart01\obj\Debug\ProjectsWindowsFormPart01.csprojResolveAssemblyReference.cache
+C:\Users\nmphu\OneDrive\Learning\Subjects\CSHARP\GitHub\Csharp_LHU\Projects\Part01\ProjectsWindowsFormPart01\ProjectsWindowsFormPart01\obj\Debug\ProjectsWindowsFormPart01.Frm_Main.resources
+C:\Users\nmphu\OneDrive\Learning\Subjects\CSHARP\GitHub\Csharp_LHU\Projects\Part01\ProjectsWindowsFormPart01\ProjectsWindowsFormPart01\obj\Debug\ProjectsWindowsFormPart01.Properties.Resources.resources
+C:\Users\nmphu\OneDrive\Learning\Subjects\CSHARP\GitHub\Csharp_LHU\Projects\Part01\ProjectsWindowsFormPart01\ProjectsWindowsFormPart01\obj\Debug\ProjectsWindowsFormPart01.csproj.GenerateResource.Cache
+C:\Users\nmphu\OneDrive\Learning\Subjects\CSHARP\GitHub\Csharp_LHU\Projects\Part01\ProjectsWindowsFormPart01\ProjectsWindowsFormPart01\obj\Debug\ProjectsWindowsFormPart01.exe
+C:\Users\nmphu\OneDrive\Learning\Subjects\CSHARP\GitHub\Csharp_LHU\Projects\Part01\ProjectsWindowsFormPart01\ProjectsWindowsFormPart01\obj\Debug\ProjectsWindowsFormPart01.pdb
