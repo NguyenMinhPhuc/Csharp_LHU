@@ -1,4 +1,8 @@
 # Csharp_LHU
+## tieu de nho
+### tiêu đe no
+- kljfladf
+	+kjlfads
 Chương trình học môn  Csharp
 Môn học được chia làm 2 phần
 phần 1: Lập trình giao tiếp với Csharp
